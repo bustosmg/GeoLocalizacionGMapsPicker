@@ -1,0 +1,7 @@
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\bin\Debug\cConexion.dll
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\bin\Debug\cConexion.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\obj\Debug\cConexion.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\obj\Debug\cConexion.dll
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\obj\Debug\cConexion.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\bin\Debug\cEntidades.dll
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cConexion\bin\Debug\cEntidades.pdb

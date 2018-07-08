@@ -1,0 +1,5 @@
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cEntidades\bin\Debug\cEntidades.dll
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cEntidades\bin\Debug\cEntidades.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cEntidades\obj\Debug\cEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cEntidades\obj\Debug\cEntidades.dll
+C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\GeoLocalizacion\cEntidades\obj\Debug\cEntidades.pdb
